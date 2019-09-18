@@ -11,6 +11,6 @@ public class InicialActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_inicial);
 
-
+        String teste2;
     }
 }
