@@ -1,8 +1,10 @@
-package br.udesc.menudigital;
+package br.udesc.ceavi.ddm.menudigital.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import br.udesc.activity.R;
 
 public class InicialActivity extends AppCompatActivity {
 
@@ -10,7 +12,5 @@ public class InicialActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_inicial);
-
-
     }
 }
